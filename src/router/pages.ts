@@ -1,6 +1,7 @@
 // 主包
 const mainPackage = {
-  index: '/pages/index/index'
+  index: '/pages/index/index',
+  mine: '/pages/mine/mine'
 }
 
 // 分包
